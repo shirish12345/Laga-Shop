@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87944" started-at="2020-04-28T17:44:07 IST" finished-at="2020-04-28T17:45:35 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87944" started-at="2020-04-28T17:44:07 IST" finished-at="2020-04-28T17:45:35 IST">
+      <class name="TestCases.RegisterTest">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:TestCases.RegisterTest@1d16f93d]" name="browserLaunch" duration-ms="17494" started-at="2020-04-28T17:44:07 IST" finished-at="2020-04-28T17:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestCases.RegisterTest@1d16f93d]" name="test1" duration-ms="6752" started-at="2020-04-28T17:44:25 IST" finished-at="2020-04-28T17:44:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="registerCust()[pri:0, instance:TestCases.RegisterTest@1d16f93d]" name="registerCust" duration-ms="63648" started-at="2020-04-28T17:44:32 IST" finished-at="2020-04-28T17:45:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerCust -->
+      </class> <!-- TestCases.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
